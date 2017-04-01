@@ -255,6 +255,7 @@ The SimpleFunction TakePicture() in the existing Camera AI component should be m
 <a href="">https://github.com/mit-cml/appinventor-sources/issues/338</a>
 <br><a href="">"https://github.com/mit-cml/appinventor-sources/pull/878"</a>
 <br><a href="">"https://github.com/mit-cml/appinventor-sources/issues/236"</a>
+<br><a href="">"shubham-jaiswal-8ba329113"</a>
 <br><a href="">"http://stackoverflow.com/users/6932864/shubham-jaiswal"</a>
  
             
