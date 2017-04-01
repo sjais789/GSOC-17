@@ -121,12 +121,7 @@
               <li><a href="#5">Experience with teams, online developer communities and large code bases</a></li>
               <li><a href="#6">Non Trivial Apps Developed</a></li>
               <li><a href="#7">App Inventor Design Challenge</a></li>
-            </ul>
-            
-                
-            </div>
-      </div>  
-
+          
 <hr>
         <div class="row" >
             <div class="col-md-12">
