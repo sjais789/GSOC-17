@@ -97,7 +97,7 @@
                     <small> Visualisation Component </small>
                 </h1>
                 <br/>
-                <h4>This proposal is available at: <a href="">http://shubh.github.io/gsoc17.html</a></h4>
+                <h4>This proposal is available at: <a href="">https://sjais789.github.io/GSOC-17/</a></h4>
             </div>
         </div>
         <hr/>
@@ -110,6 +110,7 @@
               <li><a href="#1">Interest in App Inventor</a></li>
               <li><a href="#2">Interest in introductory programming</a></li>
               <li><a href="#3">Proposed summer project</a>
+              <li><a href="https://drive.google.com/open?id=0B-tl5cHWTfg2eW1lWXVhV295elE">Resume</a>
                 <ul>
                   <li><a href="#31">About me</a></li>
                   <li><a href="#32">Project Overview</a></li>
