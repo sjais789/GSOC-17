@@ -250,10 +250,14 @@ chart.js<a href="http://www.chartjs.org/"></a> etc.</p>
 The SimpleFunction TakePicture() in the existing Camera AI component should be modified such that it would call camera = Camera.open(findFrontFacingCamera()) if the frontCamera property is set, where the findFrontFacingCamera Then we can call the<a href="https://developer.android.com/reference/android/hardware/Camera.html#takePicture(android.hardware.Camera.ShutterCallback,%20android.hardware.Camera.PictureCallback,%20android.hardware.Camera.PictureCallback,%20android.hardware.Camera.PictureCallback"> Android API's</a>camera.takePicture()method instead of launching the camera app via the intent.</p>
 
 <p>The available component in MIT app inventor is Bar code which decodes the barcode and send text back to screen without user intervention.We can improve the component to send picture back instead of decoded-text.Create an activity class and handler of this class will take pictures instead of returning barcode-text.The activity class will open,take pictures using TakePicture() method.
+ 
 
-
-<a href="https://github.com/mit-cml/appinventor-sources/issues/338">commented</a>
+<a href="">https://github.com/mit-cml/appinventor-sources/issues/338</a>
 <a href="">"https://github.com/mit-cml/appinventor-sources/pull/878"</a>
+<a href="">"https://github.com/mit-cml/appinventor-sources/issues/236"</a>
+<a href="">"http://stackoverflow.com/users/6932864/shubham-jaiswal"</a>
+ 
+            
 
 
 
